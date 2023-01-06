@@ -1,9 +1,12 @@
 
 import './App.css';
+import ProcessStage from './compornent/ProcessStage';
 
 function App() {
-  return (
-   a
+  return (<div className='a'>
+    <ProcessStage columnName='Todo' className='ps' />
+    <ProcessStage columnName='Done' className='ps' />
+  </div>
   );
 }
 

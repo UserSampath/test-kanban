@@ -1,0 +1,21 @@
+.ProgressStage {
+  width: 300px;
+
+  background-color: rgb(156, 249, 249);
+  height: 600px;
+  border: 5px solid;
+  border-radius: 25px;
+  margin: 10px 10px 10px 10px;
+}
+.columnName {
+  color: brown;
+  margin: auto;
+  text-align: center;
+}
+
+.area {
+  background-color: white;
+  height: 90%;
+  margin: 10px 10px 10px 10px;
+  border-radius: 10px;
+}
