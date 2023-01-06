@@ -19,3 +19,11 @@
   margin: 10px 10px 10px 10px;
   border-radius: 10px;
 }
+
+.card {
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid;
+  background-color: rgb(238, 238, 238);
+  padding-left: 15px;
+}
